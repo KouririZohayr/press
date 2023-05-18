@@ -8,5 +8,9 @@ export default {
     extend: {},
   },
   plugins: [],
+  build: {
+    outDir: 'public',
+},
+
 }
 
